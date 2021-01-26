@@ -18,6 +18,12 @@
             "dir_name": "telegram",
             "module": true,
             "import_file": "mod_telegram"
+        },
+        {
+            "name": "NearYou",
+            "dir_name": "nearyou",
+            "module": false,
+            "import_file": null
         }
     ]
 }
